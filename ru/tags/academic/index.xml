@@ -5,12 +5,44 @@
     <link>https://iatabaeva.github.io/ru/tags/academic/</link>
       <atom:link href="https://iatabaeva.github.io/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iatabaeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Academic</title>
       <link>https://iatabaeva.github.io/ru/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Знакомство с GitHub</title>
+      <link>https://iatabaeva.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://iatabaeva.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-github&#34;&gt;💻 Что такое GitHub&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с &lt;strong&gt;GitHub&lt;/strong&gt; — одной из самых популярных платформ для хранения и совместной разработки программного кода. GitHub используется программистами, студентами и компаниями по всему миру для управления проектами и совместной работы над программным обеспечением.&lt;/p&gt;
+&lt;p&gt;Платформа основана на системе контроля версий &lt;strong&gt;Git&lt;/strong&gt;, которая позволяет сохранять изменения в коде, отслеживать историю проекта и работать над ним нескольким людям одновременно.&lt;/p&gt;
+&lt;h2 id=&#34;-для-чего-нужен-github&#34;&gt;📂 Для чего нужен GitHub&lt;/h2&gt;
+&lt;p&gt;GitHub выполняет сразу несколько важных функций для разработчиков:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🗂 &lt;strong&gt;Хранение кода&lt;/strong&gt; — проекты сохраняются в специальных репозиториях.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Контроль версий&lt;/strong&gt; — можно видеть все изменения в проекте и возвращаться к предыдущим версиям.&lt;/li&gt;
+&lt;li&gt;🤝 &lt;strong&gt;Совместная работа&lt;/strong&gt; — несколько разработчиков могут работать над одним проектом.&lt;/li&gt;
+&lt;li&gt;📑 &lt;strong&gt;Документация проектов&lt;/strong&gt; — можно добавлять описание проекта и инструкции по его использованию.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Портфолио разработчика&lt;/strong&gt; — GitHub часто используют как личное портфолио проектов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-github-важен-для-студентов&#34;&gt;🧑‍💻 Почему GitHub важен для студентов&lt;/h2&gt;
+&lt;p&gt;Для студентов IT-направлений GitHub является очень полезным инструментом.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 Позволяет хранить учебные проекты и лабораторные работы&lt;/li&gt;
+&lt;li&gt;🛠 Помогает практиковаться в работе с системой контроля версий&lt;/li&gt;
+&lt;li&gt;👥 Дает возможность работать над проектами вместе с другими студентами&lt;/li&gt;
+&lt;li&gt;🌍 Позволяет делиться своими проектами с сообществом разработчиков&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-мой-первый-опыт&#34;&gt;🚀 Мой первый опыт&lt;/h2&gt;
+&lt;p&gt;Я создала свой первый репозиторий и попробовала загрузить в него учебные файлы. Это помогло мне лучше понять, как организуется работа с кодом и как удобно отслеживать изменения в проекте.&lt;/p&gt;
+&lt;p&gt;Теперь я планирую использовать GitHub для хранения своих учебных проектов и постепенно развивать свое портфолио.&lt;/p&gt;
+&lt;p&gt;GitHub оказался очень полезным инструментом, который обязательно пригодится в дальнейшем обучении и будущей карьере в сфере IT.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Create Beautiful Presentations with Markdown</title>
