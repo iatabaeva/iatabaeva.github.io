@@ -54,17 +54,7 @@
       href="https://iatabaeva.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://iatabaeva.github.io/ru/tags/academic/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://iatabaeva.github.io/tags/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://iatabaeva.github.io/ru/tags/academic/"
-    /></url>
-  <url>
-    <loc>https://iatabaeva.github.io/ru/blog/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://iatabaeva.github.io/ru/blog/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://iatabaeva.github.io/blog/"
@@ -74,9 +64,21 @@
       href="https://iatabaeva.github.io/ru/blog/"
     /></url>
   <url>
-    <loc>https://iatabaeva.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://iatabaeva.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://iatabaeva.github.io/ru/publications/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://iatabaeva.github.io/ru/tags/it/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://iatabaeva.github.io/ru/tags/markdown/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://iatabaeva.github.io/tags/markdown/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://iatabaeva.github.io/ru/tags/markdown/"
+    /></url>
+  <url>
+    <loc>https://iatabaeva.github.io/ru/publications/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://iatabaeva.github.io/publications/"
@@ -86,9 +88,9 @@
       href="https://iatabaeva.github.io/ru/publications/"
     /></url>
   <url>
-    <loc>https://iatabaeva.github.io/ru/tags/study/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://iatabaeva.github.io/ru/tags/study/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://iatabaeva.github.io/ru/tags/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://iatabaeva.github.io/ru/tags/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://iatabaeva.github.io/tags/"
@@ -98,7 +100,23 @@
       href="https://iatabaeva.github.io/ru/tags/"
     /></url>
   <url>
-    <loc>https://iatabaeva.github.io/ru/tags/university/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://iatabaeva.github.io/ru/tags/university/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://iatabaeva.github.io/ru/tags/writing/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://iatabaeva.github.io/ru/blog/02/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://iatabaeva.github.io/ru/publications/02/</loc><lastmod>2026-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://iatabaeva.github.io/ru/tags/academic/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://iatabaeva.github.io/tags/academic/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://iatabaeva.github.io/ru/tags/academic/"
+    /></url>
   <url>
     <loc>https://iatabaeva.github.io/ru/publications/01/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -192,16 +210,6 @@
       rel="alternate"
       hreflang="ru"
       href="https://iatabaeva.github.io/ru/tags/hugoblox/"
-    /></url>
-  <url>
-    <loc>https://iatabaeva.github.io/ru/tags/markdown/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://iatabaeva.github.io/tags/markdown/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://iatabaeva.github.io/ru/tags/markdown/"
     /></url>
   <url>
     <loc>https://iatabaeva.github.io/ru/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

@@ -5,12 +5,70 @@
     <link>https://iatabaeva.github.io/ru/tags/study/</link>
       <atom:link href="https://iatabaeva.github.io/ru/tags/study/index.xml" rel="self" type="application/rss+xml" />
     <description>Study</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iatabaeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Study</title>
       <link>https://iatabaeva.github.io/ru/tags/study/</link>
     </image>
+    
+    <item>
+      <title>Учебная неделя и движение вперёд</title>
+      <link>https://iatabaeva.github.io/ru/blog/02/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://iatabaeva.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-что-происходило-на-этой-неделе&#34;&gt;📅 Что происходило на этой неделе&lt;/h2&gt;
+&lt;p&gt;Учебная неделя прошла в хорошем темпе и потребовала сосредоточенности. Материал становился всё более практико-ориентированным, а задания — чуть сложнее, что позволило глубже погрузиться в специальность.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 На лекциях по &lt;strong&gt;информационным системам&lt;/strong&gt; рассматривали архитектуру корпоративных решений и обсуждали, как компании выстраивают цифровую инфраструктуру.&lt;/li&gt;
+&lt;li&gt;📊 На занятиях по &lt;strong&gt;анализу данных&lt;/strong&gt; учились работать с таблицами, выявлять закономерности и делать простые выводы на основе данных.&lt;/li&gt;
+&lt;li&gt;💻 Продолжила развивать навыки в &lt;strong&gt;Python&lt;/strong&gt;, решая задачи, связанные с обработкой и визуализацией информации.&lt;/li&gt;
+&lt;li&gt;🧠 На семинаре по &lt;strong&gt;бизнес-аналитике&lt;/strong&gt; разбирали кейсы, где технологии помогают оптимизировать процессы и снижать издержки.&lt;/li&gt;
+&lt;li&gt;🤝 Продвигались в &lt;strong&gt;групповом проекте&lt;/strong&gt;: распределили задачи, уточнили требования и начали проработку решения.&lt;/li&gt;
+&lt;li&gt;🌿 Старалась сохранять баланс между учёбой и отдыхом — небольшие паузы помогали поддерживать продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно приходит понимание, как теоретические знания переходят в практические навыки. Каждая неделя добавляет уверенности и формирует более целостное представление о будущей профессии.&lt;/p&gt;
+&lt;p&gt;Движение продолжается — впереди новые задачи, идеи и открытия! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Markdown просто о главном</title>
+      <link>https://iatabaeva.github.io/ru/publications/02/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://iatabaeva.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-markdown&#34;&gt;📝 Что такое Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown — это лёгкий язык разметки, который позволяет форматировать текст с помощью простых символов. Он широко используется в IT, обучении и документации благодаря своей простоте и удобству.&lt;/p&gt;
+&lt;p&gt;В отличие от сложных редакторов, Markdown не требует специальных инструментов — достаточно обычного текстового файла.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности&#34;&gt;⚙️ Основные возможности&lt;/h2&gt;
+&lt;p&gt;С помощью Markdown можно быстро оформить текст:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 &lt;strong&gt;Заголовки&lt;/strong&gt; создаются с помощью символа &lt;code&gt;#&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;✍️ &lt;strong&gt;Жирный&lt;/strong&gt; и &lt;em&gt;курсив&lt;/em&gt; текст выделяются с помощью &lt;code&gt;**&lt;/code&gt; и &lt;code&gt;*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;📋 Списки создаются через &lt;code&gt;-&lt;/code&gt; или &lt;code&gt;1.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🔗 Ссылки оформляются в виде &lt;code&gt;[текст](ссылка)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;💻 Код можно выделить с помощью обратных кавычек &lt;code&gt;`&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пример:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Заголовок
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Жирный текст**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Элемент списка
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-где-используется-markdown&#34;&gt;💡 Где используется Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown активно применяется в разных сферах:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 В учебе — для конспектов и оформления заданий&lt;/li&gt;
+&lt;li&gt;💻 В программировании — для документации и README-файлов&lt;/li&gt;
+&lt;li&gt;🌐 В блогах и сайтах — для написания статей&lt;/li&gt;
+&lt;li&gt;🗂 В системах управления проектами — для описания задач&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-это-удобно&#34;&gt;🚀 Почему это удобно&lt;/h2&gt;
+&lt;p&gt;Главное преимущество Markdown — баланс между простотой и функциональностью. Текст остаётся читаемым даже без форматирования, а оформление добавляется буквально за секунды.&lt;/p&gt;
+&lt;p&gt;Освоив Markdown, можно быстрее структурировать информацию, аккуратно оформлять заметки и эффективно работать с текстом в цифровой среде.&lt;/p&gt;
+&lt;p&gt;Markdown — это небольшой, но очень полезный инструмент, который экономит время и делает работу с текстом гораздо удобнее.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Учебная неделя и новые открытия</title>
